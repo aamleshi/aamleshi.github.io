@@ -2,7 +2,7 @@
 layout: default
 post_list: false
 toc: false
-comment: true
+comment: false
 home_btn: true
 btn_text: true
 footer: true
@@ -12,12 +12,12 @@ encrypted_text: true
 permalink: /
 ---
 {{site.collection_order[0]}}
-# PROJECT VeXEd - HACKER-STYLE PERSONAL HOMEPAGE
-
+# Arash.ai
+![img-smpl]({{site.url}}{{site.baseurl}}/src/assets/img/me.JPG)
 <br>
-> pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
+> This URL will one day point to an AI trained to tell you my judgements of various resturants and cafes - thus rendering me obsete. In the pre-singulairity meanwhile these assorted writings and projects will have to suffice.
 
-
+<!--
 ##  Features
 * Highly customizable with user-friendly hacker-like design.
 * Easy to gather your notes or portfolios with multiple collection design.
@@ -129,9 +129,9 @@ def partition(arr,low,high):
     return ( i+1 ) 
   
 # The main function that implements QuickSort 
-# arr[] --> Array to be sorted, 
-# low  --> Starting index, 
-# high  --> Ending index 
+# arr[] -> Array to be sorted, 
+# low  -> Starting index, 
+# high  -> Ending index 
   
 # Function to do Quick sort 
 def quickSort(arr,low,high): 
@@ -156,3 +156,4 @@ for i in range(n):
   
 # This code is contributed by Mohit Kumra 
 ```
+-->
