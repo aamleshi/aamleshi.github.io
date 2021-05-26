@@ -2,7 +2,7 @@
 title: YouTube Is Your Adversary
 category: Blog
 date: 2020-11-10
-comments: False
+comment: false
 ---
 
 Before I begin my argument, I need to admit that I love YouTube. There can be no debate that YouTube makes a treasure trove of entertainment and information accessible ubiquitously. More personally, I grew up watching YouTube — and watched it grow up with me. The YouTube that exists now is fundamentally not the same product as the YouTube that I first got hooked on. I believe very strongly that in order for our free market to work, we need maximum information on the products that we consume.
