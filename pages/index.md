@@ -15,7 +15,7 @@ permalink: /
 # Arash.ai
 ![img-smpl]({{site.url}}{{site.baseurl}}/src/assets/img/me.JPG)
 <br>
-> This URL will one day point to an AI trained to tell you my judgements of various resturants and cafes - thus rendering me obsete. In the pre-singulairity meanwhile these assorted writings and projects will have to suffice.
+> This URL will one day point to an AI trained to tell you my judgements of various resturants and cafes - thus rendering me obsolete. In the pre-singulairity meanwhile these assorted writings and projects will have to suffice.
 
 <!--
 ##  Features
